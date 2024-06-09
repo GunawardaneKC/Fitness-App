@@ -1,0 +1,3 @@
+.TEInput input::placeholder {
+    color: black; /* Set placeholder color to black */
+  }

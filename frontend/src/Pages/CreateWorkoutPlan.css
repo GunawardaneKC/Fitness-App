@@ -1,0 +1,27 @@
+/* Assuming your CSS file or style tag */
+
+/* Target the input with the id "exercises" */
+#exercises::placeholder {
+    color: white; /* Set the color to white */
+  }
+
+/* Target the input with the id "description" */
+#description::placeholder {
+    color: white; /* Set the color to white */
+  }
+
+/* Target the input with the id "repetitions" */
+#repetitions::placeholder {
+    color: white; /* Set the color to white */
+  }
+
+/* Target the input with the id "sets" */
+#sets::placeholder {
+    color: white; /* Set the color to white */
+  }
+
+/* Target the input with the id "routine" */
+#routine::placeholder {
+    color: white; /* Set the color to white */
+  }
+  
